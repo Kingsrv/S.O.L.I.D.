@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81217df7-9180-4e8e-9d72-6d6201848589" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/CreditCardDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/CreditCardDI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/DebitCardDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/DebitCardDI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/ShoppingMallDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/ShoppingMallDI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +35,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">

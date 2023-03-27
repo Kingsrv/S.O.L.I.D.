@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81217df7-9180-4e8e-9d72-6d6201848589" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S.O.L.I.D/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/CreditCardDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/CreditCardDI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/DebitCardDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/DebitCardDI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/ShoppingMallDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S.O.L.I.D/src/main/java/com/srv/solid/dip/solution/ShoppingMallDI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../S.O.L.I.D" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Navn413ndyEBMBGH0VPqsn29si" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.srv.solid.dip.solution" />
+      <recent name="com.srv.solid.dip" />
+      <recent name="com.srv.solid.isp.solution" />
+      <recent name="com.srv.solid.ocp" />
+      <recent name="com.srv.solid.lsp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81217df7-9180-4e8e-9d72-6d6201848589" name="Changes" comment="" />
+      <created>1679915173204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679915173204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
